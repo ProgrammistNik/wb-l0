@@ -1,4 +1,4 @@
-# web-l0
+# wb-l0
 
 Golang service with web-interface and API
 
