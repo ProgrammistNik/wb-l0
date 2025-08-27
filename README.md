@@ -1,5 +1,3 @@
-# VIDEO - https://drive.google.com/file/d/15RVY8UpEPOUJb8T6gIf0QGBVUsDSs8Yq/view?usp=sharing
-
 # web-l0
 
 Golang service with web-interface and API
